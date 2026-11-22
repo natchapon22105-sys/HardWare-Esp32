@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:\\Users\\Arm\\.vscode\\extensions\\iofekirill.rcu-extension-6.1.4\\stub_libs",
+        "c:\\Users\\Arm\\.vscode\\extensions\\iofekirill.rcu-extension-5.1.0\\stub_libs"
+    ]
+}
